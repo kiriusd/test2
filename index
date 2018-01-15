@@ -2,10 +2,10 @@
 <html lang = "en">
 <head>
 <meta charset="UTF-8">
-<title>Document</title>
+<title>Site</title>
+<link rel="stylesheet" gref = "css/style.css">
 </head>
 <body>
-<h1>GIT урок2</h1>
-<p> новое изменение файла index.html</p>
+<h1>site here</h1>
 </body>
 </html>
