@@ -1,12 +1,14 @@
 * {
-	box-sizing: border-box;	
-	font-family: Arial;
+	font-family: Arial, sans-serif;
 }
 
 body {
 	background: silver;
 }
 
+h1 {
+	font-family: Verdana, sans;
+}
 .left-col {
 	float: left;
 	width: 30%;
@@ -14,18 +16,18 @@ body {
 }
 .right-col {
 	float:right;
-	width:70%;
+	width:65%;
 	
 }
 footer {
 	clear:both;
 	text-align: center;
 	background-color: grey;
-	vertical-align: middle
+	vertical-align: middle;
 }
 .head {
-height:100%;
-width: 100%;
+width: 100%; 
+height: 200px;
 text-align: center;
 background: url(../img/fon.jpg); 
 background-size: cover; 
