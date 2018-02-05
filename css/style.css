@@ -1,0 +1,33 @@
+* {
+	box-sizing: border-box;	
+	font-family: Arial;
+}
+
+body {
+	background: silver;
+}
+
+.left-col {
+	float: left;
+	width: 30%;
+	
+}
+.right-col {
+	float:right;
+	width:70%;
+	
+}
+footer {
+	clear:both;
+	text-align: center;
+	background-color: grey;
+	vertical-align: middle
+}
+.head {
+height:100%;
+width: 100%;
+text-align: center;
+background: url(../img/fon.jpg); 
+background-size: cover; 
+margin:0;
+}
