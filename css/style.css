@@ -32,4 +32,8 @@ text-align: center;
 background: url(../img/fon.jpg); 
 background-size: cover; 
 margin:0;
+display:flex;
+justify-content: center;
+align-items: center;
 }
+
