@@ -24,6 +24,9 @@ footer {
 	text-align: center;
 	background-color: grey;
 	vertical-align: middle;
+	display:flex;
+justify-content: center;
+align-items: center;
 }
 .head {
 width: 100%; 
